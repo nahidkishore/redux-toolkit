@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "name": "React for beginners",
+      "author": "nahid",
+      "id": 1
+    },
+    {
+      "name": "Vue for beginners",
+      "author": "niloy",
+      "id": 2
+    },
+    {
+      "name": "React native for beginners",
+      "author": "jannat",
+      "id": 3
+    },
+    {
+      "name": "My Book",
+      "author": "Nahid",
+      "id": 4
+    },
+    {
+      "name": "Java Book",
+      "author": "Nahid",
+      "id": 5
+    },
+    {
+      "name": "Python Book",
+      "author": "Nahid",
+      "id": 6
+    },
+    {
+      "name": "Spring Book",
+      "author": "Nahid",
+      "id": 7
+    }
+  ],
+  "users": []
+}
